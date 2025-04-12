@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thekostredpalm/static/css/main.d590b0d2.css",
+    "main.js": "/thekostredpalm/static/js/main.27ea0a96.js",
+    "static/js/453.601b0b4d.chunk.js": "/thekostredpalm/static/js/453.601b0b4d.chunk.js",
+    "static/media/logo.svg": "/thekostredpalm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/thekostredpalm/index.html",
+    "main.d590b0d2.css.map": "/thekostredpalm/static/css/main.d590b0d2.css.map",
+    "main.27ea0a96.js.map": "/thekostredpalm/static/js/main.27ea0a96.js.map",
+    "453.601b0b4d.chunk.js.map": "/thekostredpalm/static/js/453.601b0b4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d590b0d2.css",
+    "static/js/main.27ea0a96.js"
+  ]
+}
